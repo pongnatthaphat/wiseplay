@@ -177,3 +177,22 @@ https://gethls.animemylife.com/hls/98a8058e664cc383340c3834c79b5d2d/98a8058e664c
 
 #EXTINF:-1 group-title="แบล็คโคลเวอร์" tvg-logo="https://animeseesan.com/uploads/a79fd2df6c712d4bdd17b68ecf117593.jpg",ตอนที่ 42
 https://gethls.animemylife.com/hls/b5c202b9d0d3c1b4c921d45c44313611/b5c202b9d0d3c1b4c921d45c44313611.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Slam Dunk The Movie" tvg-logo="https://animeseesan.com/uploads/843306317de3bfaeddfe1b2fa64095af.jpg",สแลมดังก์ เดอะมูฟวี่ 1
+https://fs2.oogly.io/hls/ocicsq3llyd7lpgi46ctebxzmtkhyrtq4okaamdlszxqxni7viger32tiqwq/index-v1-a1.m3u8
+
+#EXTINF:-1 group-title="Slam Dunk The Movie" tvg-logo="https://animeseesan.com/uploads/843306317de3bfaeddfe1b2fa64095af.jpg",สแลมดังก์ เดอะมูฟวี่ 2
+https://fs2.oogly.io/hls/ocics7lllyd7lpgi46ctebf4gt74gbwzue75gejen3um5stg7tdtg5mh5z6a/index-v1-a1.m3u8
+
+#EXTINF:-1 group-title="Slam Dunk The Movie" tvg-logo="https://animeseesan.com/uploads/843306317de3bfaeddfe1b2fa64095af.jpg",สแลมดังก์ เดอะมูฟวี่ 3
+https://fs2.oogly.io/hls/ocicu7dllyd7lpgi46cteh7gmm7h5r77bkgxyrlddw64ivqd4ssqk3odvlya/index-v1-a1.m3u8
+
+#EXTINF:-1 group-title="Slam Dunk The Movie" tvg-logo="https://animeseesan.com/uploads/843306317de3bfaeddfe1b2fa64095af.jpg",สแลมดังก์ เดอะมูฟวี่ 4
+https://fs2.oogly.io/hls/ocics73llyd7lpgi46ctehn6m2hcu4wfmivklakgqigcd6zfnpp5c3f7d4ma/index-v1-a1.m3u8
