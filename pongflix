@@ -1,5 +1,5 @@
 {
-	"name": "Pong-Flix",
+	"name": "Mikado_Ceneplex",
 	"author": @PongMikado",
 	"image": "https://dl.dropboxusercontent.com/s/uzzy96j1v3t43b1/mikadologo.png",
 	"url": "https://raw.githubusercontent.com/pongnatthaphat/wiseplay/master/pongflix",
@@ -17,14 +17,14 @@
 
 			      {
                      "name": "แบล็คโคลเวอร์",
-			         "image": "https://animeseesan.com/uploads/a79fd2df6c712d4bdd17b68ecf117593.jpg",
+			         "image": "https://dl.dropboxusercontent.com//s/qfsupwrerso8x5r/blackclover.jpg",
 			         "url": "http://tiny.cc/pcblackclover",
 			         "import": false
                   },
 		   
                   {
                      "name": "โคนัน ปี19",
-			         "image": "https://animeseesan.com/uploads/83504509aeb796db34d2a7b0d2fb0c50.jpg",
+			         "image": "https://cdn.shirokami.me/sharing/ahd/images/EAH5F30EFC1B7485.png",
 			         "url": "http://tiny.cc/pcconan",
 			         "import": false
                   },		   
