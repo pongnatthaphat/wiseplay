@@ -1,5 +1,5 @@
 {
-	"name": "Pong-FLIX",
+	"name": "PONG-FLIX",
 	"author": @PongMikado",
 	"image": "https://dl.dropboxusercontent.com/s/uzzy96j1v3t43b1/mikadologo.png",
 	"url": "https://raw.githubusercontent.com/pongnatthaphat/wiseplay/master/pongflix",
@@ -12,7 +12,7 @@
 	
 	{
         "name": "การ์ตูน-พากย์ไทย",
-        "image": "https://fbi.dek-d.com/27/0372/9209/115652977",
+        "image": "https://dl.dropboxusercontent.com/s/h92k4nkkbedvqks/cartoonlogo.jpg",
         "groups": [
 
 			      {
@@ -27,7 +27,14 @@
 			         "image": "https://cdn.shirokami.me/sharing/ahd/images/EAH5F30EFC1B7485.png",
 			         "url": "http://tiny.cc/pcconan",
 			         "import": false
-                  },		   
+                  },	
+
+                  {
+                     "name": "ดร.สโตน เจ้าแห่งวิทยาศาสตร์กู้คืนอารยธรรมโลก",
+			         "image": "https://www.moshimoshi-nippon.jp/wp/wp-content/uploads/2019/09/0d7e3be77a01f2b669f008eefe50201f.jpg",
+			         "url": "http://tiny.cc/pcdrstone",
+			         "import": false
+                  },					  
 
 
 
