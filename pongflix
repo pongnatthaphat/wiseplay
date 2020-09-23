@@ -1,0 +1,41 @@
+{
+	"name": "Mikado_Ceneplex",
+	"author": @PongMikado",
+	"image": "https://res06.noxgroup.com/noxinfluencer/youtube/avatar/f6e180da4f51e8fb1c0423106a64bd16.png",
+	"url": "https://raw.githubusercontent.com/konhuafuu315/IPTV/master/GALIC",
+	"groups": [
+	
+	
+	
+	
+	
+	
+	
+	         {
+        "name": "การ์ตูน-พากย์ไทย",
+        "image": "https://dl.dropboxusercontent.com/s/h92k4nkkbedvqks/cartoonlogo.jpg",
+        "stations": [
+
+          {
+            "name": "แบล็คโคลเวอร์",
+			"image": "https://animeseesan.com/uploads/a79fd2df6c712d4bdd17b68ecf117593.jpg",
+			"url": "http://tiny.cc/pcblackclover",
+			"import": false
+           },
+
+
+
+
+	       ]
+
+	},	
+
+
+
+
+
+
+		
+		
+    ]
+}	
