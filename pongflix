@@ -14,7 +14,7 @@
 	         {
         "name": "การ์ตูน-พากย์ไทย",
         "image": "https://dl.dropboxusercontent.com/s/h92k4nkkbedvqks/cartoonlogo.jpg",
-        "stations": [
+        "groups": [
 
           {
             "name": "แบล็คโคลเวอร์",
