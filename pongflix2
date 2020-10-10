@@ -9,6 +9,12 @@
 	
 
 
+	{
+        "name": "FREE-TV",
+        "image": "https://dl.dropboxusercontent.com/s/0ahtky1zogv679r/FreeTv.png",
+        "url": "http://tiny.cc/pfreetv",
+        "import": false
+        },
 
 	{
         "name": "การ์ตูน-พากย์ไทย",
@@ -48,13 +54,6 @@
 	          ]
 
 	},	
-
-	{
-        "name": "FREE-TV",
-        "image": "https://dl.dropboxusercontent.com/s/0ahtky1zogv679r/FreeTv.png",
-        "url": "http://tiny.cc/pfreetv",
-        "import": true
-        },
 
 
 
