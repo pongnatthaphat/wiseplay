@@ -1,0 +1,24 @@
+{
+	"name": "PONG-FLIX",
+	"author": @PongMikado",
+	"image": "https://dl.dropboxusercontent.com/s/uzzy96j1v3t43b1/mikadologo.png",
+	"url": "https://raw.githubusercontent.com/pongnatthaphat/wiseplay/master/pongflix",
+	"groups": [
+	
+	
+	
+
+
+	{
+        "name": "FREE-TV",
+        "image": "https://dl.dropboxusercontent.com/s/0ahtky1zogv679r/FreeTv.png",
+        "url": "http://tiny.cc/pfreetv",
+        "import": false
+        },
+
+
+
+		
+		
+    ]
+}	
